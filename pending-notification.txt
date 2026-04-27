@@ -1,0 +1,1 @@
+C:/Users/mccka/.claude/harness/pre-bash-gate.sh: line 23: jq: command not found
