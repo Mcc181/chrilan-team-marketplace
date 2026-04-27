@@ -12,8 +12,8 @@
       "description": "Chrilan Technology team member agents for subagent dispatch - Kevin Brown, Chris Anderson, Nathan Cross, etc.",
       "category": "development",
       "source": {
-        "source": "github",
-        "repo": "Mcc181/chrilan-team"
+        "source": "url",
+        "url": "https://github.com/Mcc181/chrilan-team.git"
       },
       "homepage": "https://github.com/Mcc181/chrilan-team"
     }
