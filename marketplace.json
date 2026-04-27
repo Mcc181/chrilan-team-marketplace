@@ -1,1 +1,21 @@
-{"plugins":[{"name":"chrilan-team","repo":"https://github.com/Mcc181/chrilan-team","description":"Chrilan Technology team member agents for Claude Code subagent dispatch"}]}
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "chrilan-team-marketplace",
+  "description": "Chrilan Technology team member agents for Claude Code subagent dispatch",
+  "owner": {
+    "name": "Victoria Sterling",
+    "email": "victoria@chrilantech.com"
+  },
+  "plugins": [
+    {
+      "name": "chrilan-team",
+      "description": "Chrilan Technology team member agents for subagent dispatch - Kevin Brown, Chris Anderson, Nathan Cross, etc.",
+      "category": "development",
+      "source": {
+        "source": "github",
+        "repo": "Mcc181/chrilan-team"
+      },
+      "homepage": "https://github.com/Mcc181/chrilan-team"
+    }
+  ]
+}
